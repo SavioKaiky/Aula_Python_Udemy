@@ -136,3 +136,21 @@ while True:
     else:
         print('CPF inválido. Digite somente os números.')
         print(15 * '=-' + '=')
+print('Validador de CPF')
+
+cpf = input('Digite os 9 primeiros dígitos do CPF: ')
+
+if len(cpf) == 9 and cpf.isdigit():
+    multiplicador = 10
+    soma = 0
+
+    for digito in cpf:
+        soma += int(digito) * multiplicador
+        multiplicador -= 1
+
+    resultado = (soma * 10) % 11
+
+            #    'Valor' if False else 'Outro valor' if False else 'Fim'
+    verificação = 0 if resultado > 9 else resultado
+
+    print(f'O primeiro dígito do CPF é: {verificação}')
