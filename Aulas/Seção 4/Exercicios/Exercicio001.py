@@ -11,6 +11,6 @@ def mult(*args):
         total *= numero
     return total
     
-
-print(mult(1, 2, 3, 4, 5, 6, 7))
+multiplication = mult(1, 2, 3, 4, 5, 6, 7)
+print(multiplication)
 
