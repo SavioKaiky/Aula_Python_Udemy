@@ -1,0 +1,16 @@
+Extra - Mais sobre escopo, namespace e closures (2025 / 2026)
+    Costumo criar MUITOS vídeos gratuitos explicando alguns recursos da linguagem. Para escopo, namespace e closures no Python, criei três vídeos sobre isso nos mínimos detalhes.
+
+    Considere isso como um extra que você está ganhando neste curso (não faz parte da carga horária, é apenas um presente).
+
+    Quando eu digo "nos mínimos detalhes", é REALMENTE nos mínimos detalhes. Isso pode deixar esses vídeos um pouco mais complexos do que o que você veio assistindo até aqui. Posso falar de coisas que você ainda nem aprendeu nas aulas anteriores. Mesmo assim, vou deixar esses links para você, já que é sobre o mesmo assunto (funções, closures, escopo e namespace).
+
+    Se sentir dificuldades assistindo a esses vídeos, não se preocupe, alguns assuntos serão mencionados no futuro ao longo das aulas posteriores.
+
+    Sem mais... Seguem os links:
+
+        Escopo e Namespace - Parte 1  https://www.youtube.com/watch?v=GkgbSIYSHUg&feature=youtu.be
+
+        LEGB, Global, Nonlocal, Enclosing e Call Stack - Parte 2  https://www.youtube.com/watch?v=U8oF5WWpEGk
+
+        Closures em Python: guia DEFINITIVO   https://www.youtube.com/watch?v=8-H-G2t295A
