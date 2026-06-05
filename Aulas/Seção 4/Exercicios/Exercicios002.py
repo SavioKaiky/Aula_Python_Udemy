@@ -5,8 +5,7 @@ def par_impar(a):
 
     if impar_par == 0:
         return print(f'O número {a} e PAR')
-    else:
-        return print(f'O número {a} e ÍMPAR')
+    return print(f'O número {a} e ÍMPAR')
 
 numero = int(input("Digite um número: "))
 
